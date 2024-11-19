@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://naocai.github.com/sitemap.xml
+Sitemap: https://naocai.github.com/baidusitemap.xml
